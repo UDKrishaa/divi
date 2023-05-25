@@ -1,0 +1,17 @@
+/*
+Theme Name:   Divi Child
+
+Description:  Divi Child Theme
+   
+Template:     Divi
+Version:      1.0.0
+
+*/
+
+
+@import url("css/global.css");
+@import url("css/product.css");
+@import url("css/style.css");
+@import url("js/dropdown.js");
+@import url("css/style.css");
+@import url("css/bootstrap.min.css");
